@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "TomDev"
+            }
+        ],
+        "Description": "Tokai Teio Video Splash Screen",
+        "Id": "Tokai_blackhole",
+        "Name": "Tokai Teio Blackhole",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0"
+    }
+}

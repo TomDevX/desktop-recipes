@@ -1,0 +1,6 @@
+[kdeglobals][KDE]
+LookAndFeelPackage=Tokai_blackhole
+
+[ksplashrc][KSplash]
+Engine=KSplashQML
+Theme=Tokai_blackhole
